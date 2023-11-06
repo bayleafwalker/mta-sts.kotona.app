@@ -1,5 +1,4 @@
 version: STSv1
 mode: testing
 mx: witcher.mxrouting.net
-mx: witcher-relay.mxrouting.net
 max_age: 604800
